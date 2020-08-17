@@ -24,7 +24,7 @@ Computer Graphics First Assignment - Drawing Torus
   - Two-sided constant shading
     | Key | action |  
     | ----- | ----- | 
-    | 5 | Draw the normal vectors of the polygons |
+    | 5 | Draw the normal vectors of the polygons; toggle with '5' key |
     | 6 | Two-sided constant shading with the wireframe |
   - Sweep angle control around 2 different axes  
     | Key | action |  
